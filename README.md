@@ -1,5 +1,5 @@
 # DealDigger Price Tracker
-![DealDigger Logo](https://drive.google.com/file/d/1sfu7wPswvW-Amq7kBZyKdtJSbAwWDDH8/view?usp=sharing)
+![DealDigger Logo](b983b740e7cf4bc289d2b1d6e0d6dce1 (1).png)
 
 Track prices on your favorite products and get notified when they drop below your desired price.
 
