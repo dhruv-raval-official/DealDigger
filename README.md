@@ -1,5 +1,5 @@
 # DealDigger Price Tracker
-![DealDigger Logo](b983b740e7cf4bc289d2b1d6e0d6dce1 (1).png)
+![DealDigger Logo](https://github.com/dhruv-raval-official/DealDigger/blob/32ad421b33fb14c8338daa5e8c70260bc1d597cc/b983b740e7cf4bc289d2b1d6e0d6dce1%20(1).png)
 
 Track prices on your favorite products and get notified when they drop below your desired price.
 
