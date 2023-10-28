@@ -1,8 +1,5 @@
-# DealDigger
-DealDigger Price Tracker is a powerful tool tailored for online shoppers who frequently browse Amazon these eCommerce platforms. In a dynamic online shopping landscape, where product prices can change rapidly, application provides users with real-time price tracking and notifications, specifically designed for Amazon.
-
 # DealDigger Price Tracker
-
+![DealDigger Logo](link-to-your-logo.png)
 Track prices on your favorite products and get notified when they drop below your desired price.
 
 ## Table of Contents
@@ -11,8 +8,6 @@ Track prices on your favorite products and get notified when they drop below you
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -35,3 +30,29 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone https://github.com/your-username/DealDigger.git
+```
+2. Install the project dependencies.
+
+```bash
+cd DealDigger
+npm install
+```
+
+## Usage
+
+1. Start the application.
+```bash
+node parser.js
+```
+2. Access the web interface in your browser at http://localhost:PORT .
+3. Sign up or log in to start tracking product prices.
+4. Add the URL of a product and your desired price. The system will automatically check and notify you when the price drops.
+
+## Configuration
+For email notifications to work, create a .env file in the project root and configure the following environment variables:
+```env
+EMAIL_ADDRESS=your-email@gmail.com
+EMAIL_PASSWORD=your-email-password
+MONGODB_URI=your-mongodb-connection-uri
+```
+Note: Be careful with your email and password information. Never commit this file to your version control system.
